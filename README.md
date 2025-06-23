@@ -21,6 +21,6 @@ git clone https://github.com/adinakaran/scrap.git && cd scrap
 - Always obtain proper authorization before testing.  
 
 ## **📜 License**  
-MIT © [ Dinakaran A] | See [LICENSE](LICENSE).  
+MIT © [ Dinakaran A] | See [LICENSE]([LICENSE](https://github.com/adinakaran/scrap/blob/main/License.md)).  
 
 ---  
