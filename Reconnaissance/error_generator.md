@@ -250,5 +250,3 @@ User-Agent: () { :; }; echo 'Vulnerable'
 🚨 **Use responsibly!** Unauthorized testing may be illegal.  
 
 ---
-
-Would you like any **additional payloads** for specific frameworks (e.g., **FastAPI, Deno, ColdFusion**)? Let me know! 🚀
